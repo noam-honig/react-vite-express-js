@@ -11,9 +11,6 @@ export class TasksController {
 }
 applyBackendMethod(TasksController, 'setAll', { allowed: true })
 
-
-
-
 /**
  * @param {import('remult').BackendMethodOptions} options
 */

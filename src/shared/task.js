@@ -5,6 +5,7 @@ export class Task {
     title = '';
     completed = false;
 }
+
 Entity("tasks", {
     allowApiCrud: true
 })(Task)
