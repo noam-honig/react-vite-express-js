@@ -17,17 +17,17 @@
   {
     "id": 4,
     "title": "CRUD Operations",
-    "completed": true
+    "completed": false
   },
   {
     "id": 5,
     "title": "Validation",
-    "completed": true
+    "completed": false
   },
   {
     "id": 6,
     "title": "Backend methods",
-    "completed": true
+    "completed": false
   },
   {
     "id": 7,
